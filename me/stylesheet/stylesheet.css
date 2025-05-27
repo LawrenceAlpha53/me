@@ -1,0 +1,16 @@
+.btn{
+    background-color: black;
+    color: yellow;
+    width: 40%;
+    height: 70px;
+    align-items: center;
+    margin-left: 33%;
+    margin-top: 10%;
+    border-radius: 5px;
+
+
+}
+
+body{
+    background-image: url(/+256\ 705\ 415429\ 20230924_102002-01.jpeg);
+}
